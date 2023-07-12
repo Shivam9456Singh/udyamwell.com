@@ -1,0 +1,86 @@
+{
+  "Header": {
+    "title": "Partner in your Business Journey.",
+    "paragraph": "UdyamWell: A Platform for you to make your entrepreneurial dreams come true.."
+  },
+  "About": {
+    "paragraph": "  UdyamWell is a true partner that guides you on your entrepreneurial journey and stays with you in every step of the way to assist you in overcoming challenges and also in reaching new heights.As an IIT Mandi incubated startup and supported by the prestigious SBI Foundation, we have a strong foundation and a robust network of partners and experts. Our close association with these esteemed institutions allows us to leverage their expertise and resources to create impactful solutions for our target audience.",
+    "Why": [
+      "Our mission is to bridge the gap between rural communities and economic opportunities",
+      "Great and innovative company to work with impactful vision.",
+      "As an early-stage startup, they have fewer experienced people in the team but everyone is open-minded to learn and gain experience.",
+      "Work culture , Learning from scratch,Cooperative environment "
+    ],
+    "Why2": [
+      "Our organization operates on the principles of inclusivity, sustainability, and innovation.",
+      "We are committed to sustainable practices that promote environmental stewardship and social responsibility.",
+      "We strongly believe that entrepreneurship has the power to transform lives and contribute to the overall development of rural areas.",
+      "Together, we are building a future where rural entrepreneurs and SMEs ."
+    ]
+  },
+  
+  "Testimonials": [
+    {
+      "img": "img/testimonials/user1.jpg",
+      "text": "\"UdyamWell is a dynamic and innovative organization that is dedicated to empowering rural entrepreneurs and small-medium enterprises (SMEs) in India. Our mission is to bridge the gap between rural communities and economic opportunities by providing them with the necessary resources, guidance, and support to thrive in today's competitive market. \"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/user2.jpg",
+      "text": "\"As an IIT Mandi incubated startup and supported by the prestigious SBI Foundation, we have a strong foundation and a robust network of partners and experts. Our close association with these esteemed institutions allows us to leverage their expertise and resources to create impactful solutions for our target audience.\"",
+      "name": "Hemma Elva"
+    },
+    {
+      "img": "img/testimonials/user3.jpg",
+      "text": "\"Our organization operates on the principles of inclusivity, sustainability, and innovation. We embrace diversity and actively seek to foster an inclusive entrepreneurial ecosystem that encourages collaboration and knowledge-sharing. We are committed to sustainable practices that promote environmental stewardship and social responsibility.\"",
+      "name": "Alex carl"
+    },
+    {
+      "img": "img/testimonials/user4.jpg",
+      "text": "\"Through our comprehensive range of programs and initiatives, we empower rural entrepreneurs to build sustainable businesses, create employment opportunities, and uplift their communities. We strongly believe that entrepreneurship has the power to transform lives and contribute to the overall development of rural areas.\"",
+      "name": "Robert Neil"
+    },
+    {
+      "img": "img/testimonials/user5.jpg",
+      "text": "\"With a dedicated team of professionals, experts, and partners, UdyamWell is at the forefront of driving change and creating impact in the rural entrepreneurship landscape. Together, we are building a future where rural entrepreneurs and SMEs have the support they need to thrive and make a lasting difference. \"",
+      "name": "kevin noah"
+    },
+    {
+      "img": "img/testimonials/user6.jpg",
+      "text": "\"Join us in our mission to empower rural entrepreneurs and SMEs, and together, let's unlock the potential of every aspiring entrepreneur to create a brighter and more prosperous future.For more information about UdyamWell and our initiatives, please visit our website at www.udyamwell.com. \"",
+      "name": "Shivam"
+    }
+  ],
+
+  "Contact": {
+    "address": "IIT Mandi incubated startup and supported by the prestigious SBI Foundation ",
+    "phone": "+91- ",
+    "email": "www.udyamwell.com",
+    "facebook": "https://www.linkedin.com/company/udyamwell/",
+    "twitter": "twitter.com",
+    "youtube": "https://www.youtube.com/watch?v=DjSj-jC-ktc&list=PLjg48LyrNPbxtBCvBVLBdNa3LtL1xJICI"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Our Mission",
+      "text": "Our mission is to bridge the gap between rural communities and economic opportunities"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Achievements",
+      "text": "Our close association with these esteemed institutions allows us to leverage their expertise and resources to create impactful solutions for our target audience."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "youth connect",
+      "text": "Through our comprehensive range of programs and initiatives, we empower rural entrepreneurs to build sustainable businesses, create employment opportunities, and uplift their communities. "
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Future Goals",
+      "text": "With a dedicated team of professionals, experts, and partners, UdyamWell is at the forefront of driving change and creating impact in the rural entrepreneurship landscape."
+    }
+  ]
+
+}
