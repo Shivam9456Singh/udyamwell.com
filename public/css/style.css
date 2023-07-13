@@ -475,23 +475,26 @@ label {
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
+  color: #57ff1f;
   background: #fff;
 }
 /* Footer Section*/
 #footer {
-  background: #f6f6f6;
+  background: #2c27278f;
   padding: 30px 0;
 }
 #footer p {
-  color: rgb(130, 125, 125);
+  color: rgb(255, 251, 251);
   font-size: 14px;
 }
 #footer a {
-  color: #2982db;
+  color: #22ff00;
+  font-weight: 500;
+  font-size: 16;
 }
 #footer a:hover {
-  border-bottom: 2px solid #608dfd;
+  border-bottom-left-radius: 10px;
+  color: #11bfe7;
 }
 
 @media (max-width: 768px) {
